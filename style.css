@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.banner {
+    background-color: rgb(7, 4, 4);
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.forecast-day {
+    background-color:  rgb(206, 199, 199);
+    color: whitesmoke;
+    margin-left: 3px;
+    padding-top: 10px;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.navbar {
+    margin-right: 0;
+}
+
+.current-box {
+    margin-right: 10px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+button {
+    background-color: rgb(2, 44, 16);
+    border: 2px solid rgb(2, 44, 16);
+    color: whitesmoke;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+button:active {
+    background-color: rgb(71, 107, 173);
+}
+
+button:hover {
+    border: 2px solid rgb(53, 53, 53);
+}
+
+.list-group-item {
+    background-color: cornflowerblue;
+    border: none;
+    color: whitesmoke;
+}
+
+.clear {
+    background-color: rgb(70, 2, 2);
+    border: 2px solid rgb(54, 1, 1);
+}
+
+.clear:active {
+    background-color: rgb(107, 42, 42); 
+}
+
+.list-group-item:active {
+    background-color: rgb(71, 107, 173);
+}
